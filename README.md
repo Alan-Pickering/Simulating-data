@@ -9,5 +9,5 @@ and specifically the playlist (in that channel) to do with simulating data:-
 
 https://www.youtube.com/playlist?list=PLWW0WMq4Kha4i9CsfgXIeoLF5hXg7SG1g
 
-The simulations are organised according to the language or system they use (SPSS, Matlba/Octave etc.).
+The simulations are organised according to the language or system they use (SPSS, Matlab/Octave etc.).
 Check out the relevant folders in this repository for more details.
