@@ -1,4 +1,4 @@
-Contains resources for simulating data using SPSS
+Contains resources for simulating data using Matlab
 
 Several of the resources here map onto specific video screencasts in my You Tube channel;
 
